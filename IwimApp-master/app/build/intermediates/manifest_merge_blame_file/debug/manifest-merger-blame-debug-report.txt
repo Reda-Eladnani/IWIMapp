@@ -1,0 +1,214 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.iwimapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:6:22-77
+13
+14    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+15    <!-- <uses-sdk android:minSdkVersion="14" /> -->
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.firebase:firebase-firestore:21.4.3] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\0ddcaf10dc5750388d9b46f51244da44\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:13:5-79
+16-->[com.google.firebase:firebase-firestore:21.4.3] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\0ddcaf10dc5750388d9b46f51244da44\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:13:22-76
+17
+18    <application
+18-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:8:5-48:19
+19        android:name="androidx.multidex.MultiDexApplication"
+20        android:allowBackup="true"
+20-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:9:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.1.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\b2b51ad2129f7ae88186ad90508b79ab\core-1.1.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:10:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:11:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:12:9-54
+26        android:supportsRtl="true"
+26-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:13:9-35
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme" >
+28-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:14:9-40
+29        <activity android:name="com.example.iwimapplication.Activity.Show_notifications" />
+29-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:15:9-65
+29-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:15:19-62
+30        <activity android:name="com.example.iwimapplication.Activity.ListMatiere" >
+30-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:16:9-20:20
+30-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:16:19-55
+31            <intent-filter>
+31-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:17:13-19:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:18:17-69
+32-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:18:25-66
+33            </intent-filter>
+34        </activity>
+35        <activity android:name="com.example.iwimapplication.Activity.AddMatiere" >
+35-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:21:9-25:20
+35-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:21:19-54
+36            <intent-filter>
+36-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:17:13-19:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:18:17-69
+37-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:18:25-66
+38            </intent-filter>
+39        </activity>
+40        <activity android:name="com.example.iwimapplication.Activity.DownloadTimetable" />
+40-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:26:9-64
+40-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:26:19-61
+41        <activity android:name="com.example.iwimapplication.Activity.EditProfile" />
+41-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:27:9-58
+41-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:27:19-55
+42        <activity android:name="com.example.iwimapplication.Activity.Profile" />
+42-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:28:9-54
+42-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:28:19-51
+43        <activity android:name="com.example.iwimapplication.Activity.AddTimetable" />
+43-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:29:9-59
+43-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:29:19-56
+44        <activity android:name="com.example.iwimapplication.Activity.ManageSubjects" />
+44-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:30:9-61
+44-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:30:19-58
+45        <activity android:name="com.example.iwimapplication.Activity.ManageTimetable" />
+45-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:31:9-62
+45-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:31:19-59
+46        <activity android:name="com.example.iwimapplication.Activity.ManageTeachers" />
+46-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:32:9-61
+46-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:32:19-58
+47        <activity android:name="com.example.iwimapplication.Activity.ManageStudents" />
+47-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:33:9-61
+47-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:33:19-58
+48        <activity android:name="com.example.iwimapplication.Activity.ManageTeachersS" />
+48-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:34:9-62
+48-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:34:19-59
+49        <activity android:name="com.example.iwimapplication.Activity.ManageStudentsS" />
+49-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:35:9-62
+49-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:35:19-59
+50        <activity android:name="com.example.iwimapplication.Activity.Register" />
+50-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:36:9-55
+50-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:36:19-52
+51        <activity android:name="com.example.iwimapplication.Activity.Home" />
+51-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:37:9-51
+51-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:37:19-48
+52        <activity android:name="com.example.iwimapplication.Activity.ChatsFragment" />
+52-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:38:9-59
+52-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:38:19-57
+53        <activity android:name="com.example.iwimapplication.Activity.UsersFragment" />
+53-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:39:9-59
+53-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:39:19-57
+54        <activity android:name="com.example.iwimapplication.Activity.MessageActivity" />
+54-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:40:9-61
+54-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:40:19-59
+55        <activity android:name="com.example.iwimapplication.Activity.MainActivity" >
+55-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:41:9-47:20
+55-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:41:19-56
+56            <intent-filter>
+56-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:42:13-46:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:18:17-69
+57-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:18:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:45:17-77
+59-->C:\Users\Eladnani Ahmed Reda\Desktop\IwimApp-master\IwimApp-master\app\src\main\AndroidManifest.xml:45:27-74
+60            </intent-filter>
+61        </activity>
+62
+63        <provider
+63-->[com.squareup.picasso:picasso:2.71828] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\7a0c64beed256810887ab4ec489b3574\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+64            android:name="com.squareup.picasso.PicassoProvider"
+64-->[com.squareup.picasso:picasso:2.71828] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\7a0c64beed256810887ab4ec489b3574\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+65            android:authorities="com.example.iwimapplication.com.squareup.picasso"
+65-->[com.squareup.picasso:picasso:2.71828] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\7a0c64beed256810887ab4ec489b3574\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+66            android:exported="false" />
+66-->[com.squareup.picasso:picasso:2.71828] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\7a0c64beed256810887ab4ec489b3574\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+67
+68        <activity
+68-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\35d59384e5f94fa3a8b66cea2c1872ae\jetified-firebase-auth-19.3.1\AndroidManifest.xml:24:9-31:50
+69            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+69-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\35d59384e5f94fa3a8b66cea2c1872ae\jetified-firebase-auth-19.3.1\AndroidManifest.xml:25:13-85
+70            android:excludeFromRecents="true"
+70-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\35d59384e5f94fa3a8b66cea2c1872ae\jetified-firebase-auth-19.3.1\AndroidManifest.xml:26:13-46
+71            android:exported="true"
+71-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\35d59384e5f94fa3a8b66cea2c1872ae\jetified-firebase-auth-19.3.1\AndroidManifest.xml:27:13-36
+72            android:launchMode="singleTask"
+72-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\35d59384e5f94fa3a8b66cea2c1872ae\jetified-firebase-auth-19.3.1\AndroidManifest.xml:28:13-44
+73            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+73-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\35d59384e5f94fa3a8b66cea2c1872ae\jetified-firebase-auth-19.3.1\AndroidManifest.xml:29:13-102
+74            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+74-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\35d59384e5f94fa3a8b66cea2c1872ae\jetified-firebase-auth-19.3.1\AndroidManifest.xml:30:13-72
+75
+76        <service
+76-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\35d59384e5f94fa3a8b66cea2c1872ae\jetified-firebase-auth-19.3.1\AndroidManifest.xml:33:9-39:19
+77            android:name="com.google.firebase.components.ComponentDiscoveryService"
+77-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\35d59384e5f94fa3a8b66cea2c1872ae\jetified-firebase-auth-19.3.1\AndroidManifest.xml:34:13-84
+78            android:directBootAware="true"
+78-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+79            android:exported="false" >
+79-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\35d59384e5f94fa3a8b66cea2c1872ae\jetified-firebase-auth-19.3.1\AndroidManifest.xml:35:13-37
+80            <meta-data
+80-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\35d59384e5f94fa3a8b66cea2c1872ae\jetified-firebase-auth-19.3.1\AndroidManifest.xml:36:13-38:85
+81                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+81-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\35d59384e5f94fa3a8b66cea2c1872ae\jetified-firebase-auth-19.3.1\AndroidManifest.xml:37:17-109
+82                android:value="com.google.firebase.components.ComponentRegistrar" />
+82-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\35d59384e5f94fa3a8b66cea2c1872ae\jetified-firebase-auth-19.3.1\AndroidManifest.xml:38:17-82
+83            <meta-data
+83-->[com.google.firebase:firebase-firestore:21.4.3] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\0ddcaf10dc5750388d9b46f51244da44\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:20:13-22:85
+84                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+84-->[com.google.firebase:firebase-firestore:21.4.3] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\0ddcaf10dc5750388d9b46f51244da44\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:21:17-111
+85                android:value="com.google.firebase.components.ComponentRegistrar" />
+85-->[com.google.firebase:firebase-firestore:21.4.3] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\0ddcaf10dc5750388d9b46f51244da44\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:22:17-82
+86            <meta-data
+86-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\b338bb93c259f5f56bb62754a45d233c\jetified-firebase-storage-19.1.1\AndroidManifest.xml:33:13-35:85
+87                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+87-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\b338bb93c259f5f56bb62754a45d233c\jetified-firebase-storage-19.1.1\AndroidManifest.xml:34:17-107
+88                android:value="com.google.firebase.components.ComponentRegistrar" />
+88-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\b338bb93c259f5f56bb62754a45d233c\jetified-firebase-storage-19.1.1\AndroidManifest.xml:35:17-82
+89            <meta-data
+89-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\f41aa971764c4aef5caf485efddbcecd\jetified-firebase-database-19.3.0\AndroidManifest.xml:32:13-34:85
+90                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+90-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\f41aa971764c4aef5caf485efddbcecd\jetified-firebase-database-19.3.0\AndroidManifest.xml:33:17-109
+91                android:value="com.google.firebase.components.ComponentRegistrar" />
+91-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\f41aa971764c4aef5caf485efddbcecd\jetified-firebase-database-19.3.0\AndroidManifest.xml:34:17-82
+92        </service>
+93
+94        <activity
+94-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\78b13228d1b7806e4595749364e08dfc\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+95            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+95-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\78b13228d1b7806e4595749364e08dfc\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+96            android:exported="false"
+96-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\78b13228d1b7806e4595749364e08dfc\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+97            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+97-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\78b13228d1b7806e4595749364e08dfc\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+98
+99        <provider
+99-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+100            android:name="com.google.firebase.provider.FirebaseInitProvider"
+100-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+101            android:authorities="com.example.iwimapplication.firebaseinitprovider"
+101-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+102            android:exported="false"
+102-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+103            android:initOrder="100" />
+103-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+104
+105        <meta-data
+105-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\ad072bd06501b4ced252e97ed9ee745e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+106            android:name="com.google.android.gms.version"
+106-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\ad072bd06501b4ced252e97ed9ee745e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+107            android:value="@integer/google_play_services_version" />
+107-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Eladnani Ahmed Reda\.gradle\caches\transforms-2\files-2.1\ad072bd06501b4ced252e97ed9ee745e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+108    </application>
+109
+110</manifest>

@@ -1,0 +1,818 @@
+[
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_teachers.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\teachers.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_message.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_addtimetable.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\addtimetable.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_sname.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_sname.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_home.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_subjects.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\subjects.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_subjects.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\subjects.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sname.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_sname.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_students.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\students.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fixborder.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable\\fixborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_person.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_teachers.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\teachers.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_appbar2.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\appbar2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_code.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_code.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_adduser.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\adduser.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_profile.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_code.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_code.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_addtimetable.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\addtimetable.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_subjects.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\subjects.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_profile.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_adduser.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\adduser.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_manage_subjects.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\activity_manage_subjects.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_appbar3.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\appbar3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_acitvity_manage_students2.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\acitvity_manage_students2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_module.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable\\module.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_timetable.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\timetable.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bordermenu.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable\\bordermenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_manage_students.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\activity_manage_students.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_students.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\students.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_back.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_students.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\students.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_adduser.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\adduser.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_students.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\students.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_download_timetable.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\activity_download_timetable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_addsubject.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\addsubject.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_adduser.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\adduser.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_profile.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_sname.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_sname.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profile.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_name.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_addsubject.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\addsubject.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_person.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show_notifications.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\activity_show_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_sname.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_sname.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corner.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable\\corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background_right.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable-v24\\background_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_person.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_timetable.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\timetable.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_matiereitem.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\matiereitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_deleteuser.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\deleteuser.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_userschat.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\userschat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_addsubject.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\addsubject.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_code.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_code.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_person.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_adduser.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\adduser.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_message.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_deleteuser.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\deleteuser.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_addsubject.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\addsubject.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listebare.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\listebare.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_matiere.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\activity_add_matiere.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_students.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\students.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_addsubject.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\addsubject.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_message.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_userborder.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable\\userborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_appbar.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\appbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_useritem.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\useritem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_name.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_message.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_person.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sname.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_sname.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_back.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_subjects.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\subjects.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_deleteuser.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\deleteuser.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_message.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_sname.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_sname.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_home.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_addsubject.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\addsubject.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_person.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_action_name.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable-v24\\ic_action_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_name.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_profile.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_teachers.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\teachers.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notificationitem.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\notificationitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background_left.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable-v24\\background_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_right.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\chat_item_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list_matiere.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\activity_list_matiere.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_students.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\students.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_addtimetable.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\addtimetable.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_conversations.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\conversations.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_adduser.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\adduser.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_name.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_deleteuser.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\deleteuser.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_students.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\students.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_teacher.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable\\teacher.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_defavatar.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable\\defavatar.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_timetable.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\timetable.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_adduser.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\adduser.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_profile.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_code.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_code.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_name.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_manage_teachers.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\activity_manage_teachers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_name.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_code.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_code.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_home.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_teachers.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\teachers.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_useritem2.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\useritem2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_code.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_code.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_manage_teachers2.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\activity_manage_teachers2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_code.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_teachers.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\teachers.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_back.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_subjects.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\subjects.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_addtimetable.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\addtimetable.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_teachers.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\teachers.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_timetable.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\timetable.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chats.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_deleteuser.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\deleteuser.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_timetable.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\activity_add_timetable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_timetable.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\timetable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_deleteuser.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\deleteuser.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_back.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_subjects.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\subjects.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_subject.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable\\subject.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_message.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\main_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_profile.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_manage_timetable.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\activity_manage_timetable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendar.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_itemmenu.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\itemmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_addtimetable.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\addtimetable.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_person.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_addtimetable.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\addtimetable.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_subjects.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\subjects.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_addsubject.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\addsubject.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_left.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\chat_item_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sname.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_sname.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_message.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_backappbar.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\backappbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_message.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_name.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_message.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_addtimetable.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\addtimetable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_timetable.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\timetable.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_teachers.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\teachers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendar2.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable\\calendar2.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_deleteuser.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\deleteuser.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_timetable.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\timetable.png"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_users.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\layout\\fragment_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Eladnani Ahmed Reda\\Desktop\\IwimApp-master\\IwimApp-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    }
+]

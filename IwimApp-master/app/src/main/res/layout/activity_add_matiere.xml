@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".Activity.AddMatiere">
+<include layout="@layout/appbar2"/>
+
+<LinearLayout
+
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="50dp"
+    android:layout_marginRight="50dp"
+    android:gravity="center"
+    android:layout_gravity="center"
+
+    >
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_marginBottom="30dp"
+            android:src="@drawable/module"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+    <EditText
+        android:id="@+id/LabelMatiere"
+        android:layout_width="248dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:paddingLeft="20dp"
+        android:hint="Matiere"
+        android:layout_marginBottom="6dp"
+        android:background="@drawable/border"/>
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+        <EditText
+        android:id="@+id/Prof"
+        android:layout_width="248dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:paddingLeft="20dp"
+        android:layout_marginBottom="4dp"
+        android:hint="Professeur"
+        android:background="@drawable/border"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/border"
+        android:paddingLeft="20dp"
+        android:layout_margin="5dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Le semestre" />
+        <Spinner
+            android:id="@+id/spinner2"
+            android:layout_height="50dp"
+            android:layout_width="wrap_content"
+            android:entries="@array/semestre"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/border"
+        android:paddingLeft="20dp"
+        android:layout_margin="5dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="La période" />
+        <Spinner
+            android:id="@+id/spinner3"
+            android:layout_height="50dp"
+            android:layout_width="wrap_content"
+            android:entries="@array/periode"
+            android:layout_marginLeft="30dp"
+            />
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/btn_affecter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Affecter"
+        android:textColor="#ffff"
+        android:layout_marginTop="20dp"
+        android:textSize="15dp"
+        android:paddingHorizontal="25dp"
+        android:background="@drawable/bordermenu"/>
+</LinearLayout>
+
+</RelativeLayout>
