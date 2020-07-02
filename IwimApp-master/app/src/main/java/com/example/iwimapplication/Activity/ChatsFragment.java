@@ -53,6 +53,7 @@ public class ChatsFragment extends AppCompatActivity implements View.OnClickList
     FirebaseUser fuser;
     private List<User> mUsers;
     FirebaseAuth auth;
+    FirebaseUser cuser;
     String userId;
 
     @Override
@@ -60,6 +61,7 @@ public class ChatsFragment extends AppCompatActivity implements View.OnClickList
     protected void onCreate(Bundle savedInstanceState) {
         auth = FirebaseAuth.getInstance();
         userId = auth.getCurrentUser().getUid();
+        cuser = auth.getCurrentUser();
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.fragment_chats);
@@ -111,18 +113,23 @@ public class ChatsFragment extends AppCompatActivity implements View.OnClickList
             @Override
             public void onComplete(@NonNull Task<QuerySnapshot> task) {
                 mUsers.clear();
+
                 for (DocumentSnapshot documentSnapshot : task.getResult()) {
                     User user = Objects.requireNonNull(documentSnapshot.toObject(User.class));
+                    utilisateurs.remove(userId);
                     for (String id : utilisateurs) {
                         if (user.getUid()==id) {
+                            mUsers.remove(userId);
                             if (mUsers.size() != 0) {
+                                mUsers.remove(userId);
                                 for (User user1 : mUsers) {
-                                    if (!user.getUid().equals(user1.getUid())) {
+                                    String enabled = documentSnapshot.getString("enabled");
+                                    if (!user.getUid().equals(user1.getUid()) && enabled.equals("true")) {
+
                                         mUsers.add(user);
+                                        mUsers.remove(cuser);
                                     }
                                 }
-                            } else {
-                                mUsers.add(user);
                             }
                         }
                     }
@@ -150,6 +157,7 @@ public class ChatsFragment extends AppCompatActivity implements View.OnClickList
             super(context, R.layout.useritem);
             this.context=context;
             this.usersList=list;
+            this.usersList.remove(userId);
 //
             if(this.usersList.size()==0){
                 Toast.makeText(getApplicationContext(),"Pas de conversations",
@@ -171,6 +179,7 @@ public class ChatsFragment extends AppCompatActivity implements View.OnClickList
             TextView email = row.findViewById(R.id.userEmail);
             ImageView messagehim = row.findViewById(R.id.messagehim);
 
+            this.usersList.remove(userId);
             User user = this.usersList.get(position);
 
             final String uid = user.getUid();
@@ -193,4 +202,4 @@ public class ChatsFragment extends AppCompatActivity implements View.OnClickList
             return row;
         }
     }
-    }
+}
